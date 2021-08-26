@@ -1,1 +1,1 @@
-# Data_Structures
+Repo consists of data structure implementations
