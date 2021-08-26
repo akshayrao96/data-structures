@@ -107,17 +107,3 @@ class ArrayListImp<E> implements Iterable<E> {
         }
     }
 }
-
-class Main {
-    public static void main(String[] args) {
-        ArrayListImp<String> list = new ArrayListImp<>();
-        list.add("hello");
-        list.add("mister");
-        list.add("chocolate");
-        list.add("vehicle");
-        for (String item : list) {
-            System.out.println(item);
-        }
-    }
-}
-
