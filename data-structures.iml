@@ -6,6 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/ArrayList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java/ArrayList/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java/ArrayList/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/B_Tree/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/B_Tree/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Java/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
