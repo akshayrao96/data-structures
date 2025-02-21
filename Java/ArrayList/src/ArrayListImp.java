@@ -1,12 +1,12 @@
 /**
- * Class is an implementation of ArrayList, using Generics. It is supposed to mimic similarities in
- * the Java ArrayList Data Structure.
+ * Class is an implementation of ArrayListInterface, using Generics. It is supposed to mimic similarities in
+ * the Java ArrayListInterface Data Structure.
  */
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-class ArrayListImp<E> implements Iterable<E>, ArrayList<E> {
+class ArrayListImp<E> implements Iterable<E>, ArrayListInterface<E> {
 
   int CAPACITY = 10;
   private int size;

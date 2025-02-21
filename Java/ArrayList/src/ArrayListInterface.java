@@ -1,4 +1,4 @@
-public interface ArrayList<E> {
+public interface ArrayListInterface<E> {
 
   public void add(E element);
 
